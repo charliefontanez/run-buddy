@@ -1,14 +1,5 @@
+<<<<<<< HEAD
 # Run-Buddy Inc.
+=======
+>>>>>>> 4dbec1379d16688bc29aa9fa1079d9fc152bbe02
 
-
-A website that offers fitness training services.
-
-## Built With
-* HTML
-* CSS
-
-## Website
-https://lernantino.github.io/run-buddy/
-
-## Contribution
-Made with ❤️  by [Carlos Fontanez}
