@@ -22,10 +22,8 @@ header {
 
 header h1 {
     font-weight: bold;
-    margin: 0;
     font-size: 36px;
     color: #fce138;
-    
 }
 
 header a {
@@ -179,6 +177,22 @@ section {
 
 .step-info {
   flex: 2 70%;
+  display: flex;
+  flex: wrap;
+  align-items: center;
+}
+
+.step-img {
+  flex: 1 12%;
+  margin-right: 20px;
+}
+
+.step-img img {
+  max-width: 100%;
+}
+
+.step-text {
+  flex: 12;
 }
 
 .step h3 {
@@ -186,10 +200,6 @@ section {
   font-size: 46px;
   flex: 1 30%;
 }
-/* 
-.steps span {
-  font-size: 38px;
-} */
 
 .step-text h4 {
   font-size: 26px;
@@ -223,7 +233,7 @@ section {
 }
 
   .trainers {
-      text-align: center;
+
   }
 
   .trainer {
