@@ -14,3 +14,4 @@ https://lernantino.github.io/run-buddy/
 Made with ❤️  by [Carlos Fontanez}
 
 <!-- test conflict -->
+<!-- merge conflict -->
